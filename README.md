@@ -30,5 +30,5 @@
 
 ## 📫 Kontakt
 - GitHub: [Neicle](https://github.com/Neicle)  
-- Email: *ovde upiši svoj email*  
-- LinkedIn: *ovde upiši link*  
+- Email: nemanja.s.ja95@gmail.com  
+- LinkedIn:
